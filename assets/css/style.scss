@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+#project_title {
+	font-family: monospace;
+}
+#project_title a {
+	color: inherit;
+}
+h2#project_tagline {
+	padding: 0;
+}
+#header_wrap .inner {
+  padding: 10px 10px 5px 10px;
+}
+footer a {
+	text-decoration: unset;
+}
+footer p {
+	text-align: right;
+}
