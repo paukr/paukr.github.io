@@ -1,0 +1,30 @@
+<ul class="photo-gallery">
+	{% capture subdirectory %}
+		{%- if include.subdirectory -%}
+			/{{ include.subdirectory }}
+		{%- endif -%}
+	{% endcapture %}
+	{%- capture directory -%}
+		{{ include.directory | replace: "_posts/", "/assets/img/" | remove: ".md" }}
+	{%- endcapture -%}
+	{% for photo in include.photos %}
+		{%- capture path -%}
+			{{ directory }}{{ subdirectory }}/{{ photo.name }}
+		{%- endcapture -%}
+		{% capture desc %}
+			{%- if photo.desc -%}
+				{{ photo.desc }}
+			{%- endif -%}
+		{% endcapture %}
+		{% capture alt %}
+			{%- if photo.alt -%}
+				{{ photo.alt }}
+			{%- else -%}
+				{{ desc }}
+			{%- endif -%}
+		{% endcapture %}
+		<li>
+			{% include photo.html path=path desc=desc alt=alt %}
+		</li>
+	{% endfor %}
+</ul>

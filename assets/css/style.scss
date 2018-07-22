@@ -20,3 +20,25 @@ footer a {
 footer p {
 	text-align: right;
 }
+.inner {
+	max-width: 80%;
+}
+.photo-gallery {
+	list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.photo-gallery figure {
+	position: relative;
+	margin: 15px 0;
+}
+.photo-gallery figcaption {
+	text-align: center;
+}
+.photo-gallery img {
+	margin: 0;
+	padding: 0;
+	border: none;
+	vertical-align: middle;
+	max-width: 100%;
+}
