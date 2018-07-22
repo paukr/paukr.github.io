@@ -45,4 +45,4 @@ description:
 show_downloads: false
 theme: jekyll-theme-slate
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /blg/:year/:month/:day/:title

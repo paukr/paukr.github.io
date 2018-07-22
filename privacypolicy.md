@@ -1,7 +1,7 @@
 ---
 layout: default
-subtitle: privacy_policy.txt
-permalink: prpl
+subtitle: privacy_policy
+permalink: prvcyplcy
 ---
 
 - I do not collect any data related to the usage or the visitors of this site

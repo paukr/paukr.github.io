@@ -1,7 +1,7 @@
 ---
 layout: default
-subtitle: impressum.txt
-permalink: mp
+subtitle: impressum
+permalink: mprssm
 ---
 
 This is a private website.
