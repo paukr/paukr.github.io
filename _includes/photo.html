@@ -1,4 +1,10 @@
 <figure role="group">
-	<img src="{{ include.path }}" alt="{{ include.alt }}"/>
+	<img srcset="{{ include.path | downcase | replace: ".jpg", "_s.jpg" }} 576w,
+				{{ include.path | downcase | replace: ".jpg", "_m.jpg" }} 768w,
+				{{ include.path | downcase | replace: ".jpg", "_l.jpg" }} 992w,
+				{{ include.path | downcase }} 1200w"
+		sizes="(max-width: 576px) 460px, (max-width: 768px) 614px, (max-width: 992px) 793px, 1200px"
+		src="{{ include.path | downcase }}" alt="{{ include.alt }}">
 	<figcaption>{{ include.desc | markdownify}}</figcaption>
 </figure>
+
