@@ -4,7 +4,7 @@ title:  "Radreise von Stuttgart nach Istanbul (I)"
 date:   2018-09-09
 categories: work travel
 tag01:
-  - name: IMG_20180901_142307.jpg
+  - name: IMG_20180901_142307.JPG
     desc: erste Hügel in Sicht
   - name: DSC01695.JPG
     desc: Schloss Weissenstein
@@ -13,23 +13,23 @@ tag01:
 tag02:
   - name: DSC01703.JPG
     desc: Wengen grau in grau
-  - name: IMG_20180902_120042.jpg
+  - name: IMG_20180902_120042.JPG
     desc: Überquerung der Donau in Dillingen an der Donau
-  - name: IMG_20180902_154644.jpg
+  - name: IMG_20180902_154644.JPG
     desc: Reste vom Schweinsbraten in Augsburg, Hoffen auf besseres Wetter
     class: quarter
   - name: DSC01707.JPG
     desc: Lech bei Augsburg
 tag03:
-  - name: IMG_20180903_114517.jpg
+  - name: IMG_20180903_114517.JPG
     desc: Hackerbrücke in München
-  - name: IMG_20180903_120958.jpg
+  - name: IMG_20180903_120958.JPG
     desc: Weißwurstfrühstück im Augustiner
   - name: DSC01709.JPG
   - name: DSC01713.JPG
     desc: Nettes Anwesen in Herrmannsdorf
   - name: DSC01725.JPG
-  - name: IMG_20180903_170031.jpg
+  - name: IMG_20180903_170031.JPG
     desc: Kirchturm Bad Aibling, unser Tagessziel, langsam wurden die Alpen sichtbar
 ---
 Im Frühjahr entdeckte mein Arbeitskollege [Oli](https://oliverjoest.com/) einen kurzen [Artikel](https://www.mybike-magazin.de/reise_touren/europa/radreise-von-muenchen-nach-istanbul/a5277.html) in der MyBike mit GPS Track von München nach Istanbul.Nach kurzer Abstimmung war entschieden diese Tour zu machen. Den Rahmen konnten wir durch unseren [Arbeitgeber](https://www.l-mobile.com/) so abstecken, dass wir drei Wochen radfahren, dann drei Wochen arbeiten und dann den Rest der Tour abfahren.
