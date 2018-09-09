@@ -4,7 +4,8 @@
 				{{ include.path | downcase | replace: ".jpg", "_l.jpg" }} 992w,
 				{{ include.path | downcase }} 1200w"
 		sizes="(max-width: 576px) 460px, (max-width: 768px) 614px, (max-width: 992px) 793px, 1200px"
-		src="{{ include.path | downcase }}" alt="{{ include.alt }}">
+		src="{{ include.path | downcase }}" alt="{{ include.alt }}"
+		class="{{ include.class }}">
 	<figcaption>{{ include.desc | markdownify}}</figcaption>
 </figure>
 

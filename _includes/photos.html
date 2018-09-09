@@ -23,8 +23,13 @@
 				{{ desc }}
 			{%- endif -%}
 		{% endcapture %}
+		{% capture class %}
+			{%- if photo.class -%}
+				{{ photo.class }}
+			{%- endif -%}
+		{% endcapture %}
 		<li>
-			{% include photo.html path=path desc=desc alt=alt %}
+			{% include photo.html path=path desc=desc alt=alt class=class %}
 		</li>
 	{% endfor %}
 </ul>
