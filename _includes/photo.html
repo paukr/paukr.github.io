@@ -1,10 +1,10 @@
 <figure role="group">
-	<img srcset="{{ include.path | upcase | replace: ".JPG", "_S.JPG" }} 576w,
-				{{ include.path | upcase | replace: ".JPG", "_M.JPG" }} 768w,
-				{{ include.path | upcase | replace: ".JPG", "_L.JPG" }} 992w,
-				{{ include.path | upcase }} 1200w"
+	<img srcset="{{ include.path | replace: ".JPG", "_S.JPG" }} 576w,
+				{{ include.path | replace: ".JPG", "_M.JPG" }} 768w,
+				{{ include.path | replace: ".JPG", "_L.JPG" }} 992w,
+				{{ include.path }} 1200w"
 		sizes="(max-width: 576px) 460px, (max-width: 768px) 614px, (max-width: 992px) 793px, 1200px"
-		src="{{ include.path | upcase }}" alt="{{ include.alt }}"
+		src="{{ include.path }}" alt="{{ include.alt }}"
 		class="{{ include.class }}">
 	<figcaption>{{ include.desc | markdownify}}</figcaption>
 </figure>
