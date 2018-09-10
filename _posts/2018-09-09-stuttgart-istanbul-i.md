@@ -57,6 +57,6 @@ Mit dem ersten Tag noch in den Knochen ging es bei leichtem Regen und 13°C weit
 Heute war das Ziel bis 12:00 ein Weißwurstfrühstück in München einzunehmen. Außerdem musste ich mit noch ein Fahrradschloss besorgen, da ich meins vergessen hatte. Das Wetter wurde stetig besser und ab Mittag konnten wir sogar ab und an Sonne genießen.
 {% include photos.html directory=page.path subdirectory="tag03" photos=page.tag03 %}
 <center>
-	<a href="https://connect.garmin.com/modern/activity/3000978775>Track</a><br/>
+	<a href="https://connect.garmin.com/modern/activity/3000978775">Track</a><br/>
 	<iframe src='https://connect.garmin.com/modern/activity/embed/3000978775' title='Stuttgart Istanbul Tag 3' width='465' height='500' frameborder='0'></iframe>
 </center>
