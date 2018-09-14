@@ -36,18 +36,18 @@ Im Frühjahr entdeckte mein Arbeitskollege [Oli](https://oliverjoest.com/) einen
 Wir starten die Reise in Stuttgart, fahren über München, Salzburg nach Triest und dann über den Balkan (Slowenien, Kroatien, Montenegro) nach Albanien, wo wir die drei wöchige Arbeitspause einlegen. Anschließend geht es durch Mazedonien, Bulgarien, Griechenland nach Istanbul von wo aus wir mit dem Zug wieder zurück nach Deutschland fahren werden.
 Als Tagesziel haben wir uns 100km gesetzt, um in drei Wochen die knapp 2000km nach Albanien zu schaffen und auch etwas Puffer für diverse Ausfälle oder sonstige Tätigkeiten zu haben.
 
-# Tag 1
+# Tag 1: Stuttgart → Sontheim
 Es ging 10:30 am Hauptbahnhof Stuttgart bei trockenem, leicht gräulichem Wetter los. Etappenziel war irgendwo in der ungefähren Mitte zwischen Stuttgart und München. Zunächst fuhren wir entlang des Neckarradwegs, den wir zur Überquerung der Schwäbischen Alb aber verließen und auf kleineren Radwegen weiterfuhren.
 {% include photos.html directory=page.path subdirectory="tag01" photos=page.tag01 %}
 Untergekommen sind wir im [Sontheimer Wirtshäusle](https://www.sontheimer-wirtshaeusle.de/) wo man uns hervorragend bekochte.
 {% include garmin.html id=3000753963 title="Stuttgart Istanbul Tag 1" %}
 
-# Tag 2
+# Tag 2: Sontheim → Mering
 Mit dem ersten Tag noch in den Knochen ging es bei leichtem Regen und 13°C weiter Richtung München.
 {% include photos.html directory=page.path subdirectory="tag02" photos=page.tag02 %}
 {% include garmin.html id=3000969066 title="Stuttgart Istanbul Tag 2" %}
 
-# Tag 3
+# Tag 3: Mering → Bad Aibling
 Heute war das Ziel bis 12:00 ein Weißwurstfrühstück in München einzunehmen. Außerdem musste ich mit noch ein Fahrradschloss besorgen, da ich meins vergessen hatte. Das Wetter wurde stetig besser und ab Mittag konnten wir sogar ab und an Sonne genießen.
 {% include photos.html directory=page.path subdirectory="tag03" photos=page.tag03 %}
 {% include garmin.html id=3000978775 title="Stuttgart Istanbul Tag 3" %}

@@ -57,22 +57,22 @@ tag07:
   - name: DSC01825.JPG
   - name: DSC01837.JPG
 ---
-# Tag 4
+# Tag 4: Bad Aibling → Salzburg
 Es ging kühl, aber relativ trocken weiter Richtung Salzburg (zunächst [D11](https://de.wikipedia.org/wiki/Ostsee%E2%80%93Oberbayern_(D11)), dann [Mozartradweg](https://mozartradweg.com/) wo wir auf den [Alpe Adria Radweg](https://www.alpe-adria-radweg.com) durch die Alpen einbiegen werden.
 {% include photos.html directory=page.path subdirectory="tag04" photos=page.tag04 %}
 {% include garmin.html id=3011383060 title="Stuttgart Istanbul Tag 4" %}
 
-# Tag 5
+# Tag 5: Salzburg → Bad Gastein
 Wir verlassen Salzburg bei blauem Himmel mit dem Ziel [Bad Gastein](https://de.wikipedia.org/wiki/Bad_Gastein), ein etwas mystischer Ort mit morbiden Schick und leer stehenden Grand Hotels aus vergangenen Zeiten. Der Weg war traumhaft geführt (inkl. 2km Autobahntunnel auf Radweg), hatte aber einige Steigungen. Entlohnt wurden wir durch tolle Alpenpanoramen.
 {% include photos.html directory=page.path subdirectory="tag05" photos=page.tag05 %}
 {% include garmin.html id=3011387087 title="Stuttgart Istanbul Tag 5" %}
 
-# Tag 6
+# Tag 6: Bad Gastein → Villach
 Einige wenige (Höhen-)Meter nach Bad Gastein erreicht man Böckstein von wo aus man durch die [Autoschleuse Tauernbahn](https://www.gasteinertal.com/autoschleuse/), also mit dem Zug, den [Alpenhauptkamm](https://de.wikipedia.org/wiki/Alpenhauptkamm) unterqueren kann. Böckstein und Mallnitz liegen beide auf ~1200m und sind ~10km auseinander. Danach ging es per langer, relativ unspektakulärer Abfahrt nach Villach. Dort um's Eck fand gerade ein großes [Harley Davidson Treffen](https://de.wikipedia.org/wiki/European_Bike_Week) statt, wodurch die Zimmerpreise und auch der Lärmpegel ziemlich erhöht waren.
 {% include photos.html directory=page.path subdirectory="tag06" photos=page.tag06 %}
 {% include garmin.html id=3011388009 title="Stuttgart Istanbul Tag 6" %}
 
-# Tag 7
+# Tag 7: Villach → Udine
 Nach Villach durchzog der Weg einige Alpentäler und schlängelte sich dann über die italienische Grenze hinweg erneut hinauf auf 800m. Von dort aus durften wir ein sehr schönes Stück vom [Ciclovia Romea](http://www.bicitalia.org/it/bicitalia/gli-itinerari-bicitalia/130-bi5-ciclovia-romea) fahren, einer alten [Bahntrasse](https://de.wikipedia.org/wiki/Pontafelbahn) mit tollen Tunneln, Brücken und Aussichtspunkten. Wir fuhren bis Udine, leider ab Nachmittag recht feucht.
 {% include photos.html directory=page.path subdirectory="tag07" photos=page.tag07 %}
 {% include garmin.html id=3011389826 title="Stuttgart Istanbul Tag 7" %}
