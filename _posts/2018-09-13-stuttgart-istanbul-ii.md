@@ -20,7 +20,7 @@ tag05:
   - name: DSC01770_stitch.JPG
     desc: Gasteinertal
   - name: DSC01774.JPG
-    desc: <a href="https://de.wikipedia.org/wiki/Grand_Hotel_de_l%E2%80%99Europe_(Bad_Gastein)">/a>
+    desc: <a href="https://de.wikipedia.org/wiki/Grand_Hotel_de_l%E2%80%99Europe_(Bad_Gastein)">Grand Hotel de l’Europe</a>
     alt: "Grand Hotel de l’Europe"
   - name: DSC01777.JPG
   - name: DSC01784.JPG
@@ -29,6 +29,7 @@ tag05:
   - name: DSC01791.JPG
     desc: Kurhotel Mirabell mit Therapiestation
   - name: DSC01796.JPG
+    class: half
   - name: IMG_20180905_184242.JPG
 tag06:
   - name: DSC01798.JPG
@@ -65,7 +66,7 @@ Es ging kühl, aber relativ trocken weiter Richtung Salzburg (zunächst [D11](ht
 Wir verlassen Salzburg bei blauem Himmel mit dem Ziel [Bad Gastein](https://de.wikipedia.org/wiki/Bad_Gastein), ein etwas mystischer Ort mit morbiden Schick und leer stehenden Grand Hotels aus vergangenen Zeiten. Der Weg war traumhaft geführt (inkl. 2km Autobahntunnel auf Radweg), hatte aber einige Steigungen. Entlohnt wurden wir durch tolle Alpenpanoramen.
 {% include photos.html directory=page.path subdirectory="tag05" photos=page.tag05 %}
 {% include garmin.html id=3011387087 title="Stuttgart Istanbul Tag 5" %}
-s
+
 # Tag 6
 Einige wenige (Höhen-)Meter nach Bad Gastein erreicht man Böckstein von wo aus man durch die [Autoschleuse Tauernbahn](https://www.gasteinertal.com/autoschleuse/), also mit dem Zug, den [Alpenhauptkamm](https://de.wikipedia.org/wiki/Alpenhauptkamm) unterqueren kann. Böckstein und Mallnitz liegen beide auf ~1200m und sind ~10km auseinander. Danach ging es per langer, relativ unspektakulärer Abfahrt nach Villach. Dort um's Eck fand gerade ein großes [Harley Davidson Treffen](https://de.wikipedia.org/wiki/European_Bike_Week) statt, wodurch die Zimmerpreise und auch der Lärmpegel ziemlich erhöht waren.
 {% include photos.html directory=page.path subdirectory="tag06" photos=page.tag06 %}
