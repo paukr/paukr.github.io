@@ -72,7 +72,7 @@ Es ging relativ unspektakulär weiter entlang des Skutarisees. Es blieb allerdin
 {% include garmin.html id=3034495356 title="Stuttgart Istanbul Tag 21" %}
 
 # Tag 22: Ruhetag in Shkodra
-In Shkodra bezogen wir ein Hostel und ließen etwas die Zeit vergehen. Shkodra gilt passenderweise als Fahrradhauptstadt Albaniens. Einen historischer Stadtkern haben wir vergeblich gesucht, immerhin ist die Stadt 2400 Jahre alt. Vieles ist vermutlich auch der Kulturrevolution zum Opfer gefallen. Von hier aus startete 1990 auch der gegen die kommunistische Diktatur, was schließlich zur Öffnung Albaniens führte.
+In Shkodra bezogen wir ein Hostel und ließen etwas die Zeit vergehen. Shkodra gilt passenderweise als Fahrradhauptstadt Albaniens. Einen historischen Stadtkern haben wir vergeblich gesucht, immerhin ist die Stadt 2400 Jahre alt. Vieles ist vermutlich auch der Kulturrevolution der kommunistische Diktatur zum Opfer gefallen, gegen die von hier aus der Aufstand 1990 startete.
 {% include photos.html directory=page.path subdirectory="tag22" photos=page.tag22 %}
 
 # Tag 23: Shkodra → Durrës
