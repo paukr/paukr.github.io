@@ -17,7 +17,7 @@ durres:
   - name: DSC02715.JPG
   - name: DSC02716.JPG
     class: half
-    desc: Aushand am Bahnhof
+    desc: Aushang am Bahnhof
   - name: DSC02717.JPG
   - name: DSC02721.JPG
   - name: DSC02730-HDR.JPG
