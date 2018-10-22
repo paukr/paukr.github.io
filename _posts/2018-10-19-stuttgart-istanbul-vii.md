@@ -37,14 +37,15 @@ tirana:
   - name: DSC02803.JPG
   - name: DSC02806.JPG
   - name: DSC02808.JPG
+    desc: Blick Richtung Mutter-Teresa-Platz
   - name: IMG_20181007_123159.JPG
     class: half
-    desc: im Restaurant Oda gibt es sehr leckere traditionelle Gerichte, z.B. halber Schafskopf und diverse andere leckere Innereien
+    desc: im Restaurant Oda gibt es sehr leckere traditionelle Gerichte, z.B. halber Schafskopf und diverse andere Innereien, wir haben fast die gesamte Karte bestellt
   - name: DSC02812.JPG
   - name: IMG_20181012_153831.JPG
     desc: auf dem Skanderbeg-Platz
   - name: DSC02816.JPG
-    desc: Eingang zu unserer Wohnung, die ganz gut war entgegen des ersten Eindrucks der Gasse
+    desc: Eingang zu unserer Wohnung, die ganz gut war, entgegen des ersten Eindrucks der Gasse
   - name: DSC02819.JPG
     desc: Mutter Albanien (Nëna Shqipëri)
     class: half
