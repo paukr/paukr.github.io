@@ -64,8 +64,8 @@ Geschafft. Ein etwas verrücktes Gefühl, aber durch die Einfahrt nach Istanbul 
 - Distanz vertikal: 38202m
 - Durchschnittsgeschwindigkeit pro Tag (mit Pausen): 13,2kmh
 - Durchschnittsgeschwindigkeit in Fahrt: 18,6kmh
-- Zeit im Sattel pro Fahrtag: 5,5h
-- Durchreiste Länder (inkl. Rückreise): 
+- durchschnittliche Zeit im Sattel pro Fahrtag: 5,5h
+- durchreiste Länder (inkl. Rückreise): 
   1. Deutschland
   1. Österreich
   1. Italien
