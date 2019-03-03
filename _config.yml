@@ -42,7 +42,12 @@
 repository: paukr/paukr.github.io
 title: pk
 description:
+author: 
+  name: paul
+  email: pl@plkr.de
 show_downloads: false
 theme: jekyll-theme-slate
 markdown: kramdown
 permalink: /blg/:year/:month/:day/:title
+plugins:
+  - jekyll-feed
