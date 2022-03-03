@@ -1,0 +1,8 @@
+<div class="garmin-container">
+{% for garmin in include.garmins %}
+	<div class="garmin">
+		<center><a href="https://connect.garmin.com/modern/activity/{{- garmin.id -}}">Track</a></center>
+		<iframe src='https://connect.garmin.com/modern/activity/embed/{{- garmin.id -}}' title='{{- garmin.title -}}' height='500' align='middle' frameborder='0' scrolling='auto'></iframe>
+	</div>
+{% endfor %}
+</div>
